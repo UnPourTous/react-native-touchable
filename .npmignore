@@ -2,3 +2,5 @@
 example/
 android/
 ios/
+.idea/
+package/anonymous-cli-metrics.json
